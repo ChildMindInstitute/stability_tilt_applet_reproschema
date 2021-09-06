@@ -1,0 +1,68 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "calibration-phase",
+  "skos:prefLabel": "Stability Tracker",
+  "skos:altLabel": "Stability Tracker",
+  "schema:description": "Stability Tracker Practice",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "ui": {
+    "inputType": "stabilityTracker",
+    "allow": ["autoAdvance"]
+  },
+  "inputOptions": [
+    {
+      "@type": "schema:Number",
+      "schema:name": "maxOffTargetTime",
+      "schema:numberOfItems": 15
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "numTestTrials",
+      "schema:value": 10
+    },
+    {
+      "@type": "schema:Text",
+      "schema:name": "taskMode",
+      "schema:value": "pseudo_stair"
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "trackingDims",
+      "schema:value": 2
+    },
+    {
+      "@type": "schema:Boolean",
+      "schema:name": "showScore",
+      "schema:value": true
+    },
+    {
+      "@type": "schema:Text",
+      "schema:name": "phaseType",
+      "schema:value": "calibration"
+    },
+    {
+      "@type": "schema:Double",
+      "schema:name": "lambdaSlope",
+      "schema:value": 1.1
+    },
+    {
+      "@type": "schema:Text",
+      "schema:name": "basisFunc",
+      "schema:value": "gerono"
+    },
+    {
+      "@type": "schema:Double",
+      "schema:name": "noiseLevel",
+      "schema:value": 0
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "taskLoopRate",
+      "schema:value": 1
+    }
+  ]
+}

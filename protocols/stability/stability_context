@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "activity_path": "https://raw.githubusercontent.com/mtg137/Stability_tracker_applet/master/activities/",
+
+        "Stability_schema": {
+            "@id": "activity_path:Stability/Stability_schema",
+            "@type": "@id"
+        }
+    }
+}

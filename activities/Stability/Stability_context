@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "Stability": "https://raw.githubusercontent.com/mtg137/Stability_tracker_applet/master/activities/Stability/",
+    "calibration-instructions": {
+      "@id": "Stability:items/calibration-instructions",
+      "@type": "@id"
+    },
+    "calibration-phase": {
+      "@id": "Stability:items/calibration-phase",
+      "@type": "@id"
+    },
+    "continuous-instructions": {
+      "@id": "Stability:items/continuous-instructions",
+      "@type": "@id"
+    },
+    "continuous-phase": {
+      "@id": "Stability:items/continuous-phase",
+      "@type": "@id"
+    }
+  }
+}

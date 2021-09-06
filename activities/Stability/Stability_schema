@@ -1,0 +1,47 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "https://raw.githubusercontent.com/mtg137/Stability_tracker_applet/master/activities/Stability/Stability_context"
+  ],
+  "@type": "reproschema:Activity",
+  "@id": "stability_schema",
+  "skos:prefLabel": "Stability tracker",
+  "schema:description": "This activity contains Stability tracker item.",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "preamble": "",
+  "ui": {
+    "addProperties": [
+      {
+        "variableName": "calibration-instructions",
+        "isAbout": "instructions",
+        "isVis": true
+      },
+      {
+        "variableName": "calibration-phase",
+        "isAbout": "calibration",
+        "isVis": true
+      },
+      {
+        "variableName": "continuous-instructions",
+        "isAbout": "continuous-instructions",
+        "isVis": true
+      },
+      {
+        "variableName": "continuous-phase",
+        "isAbout": "continuous",
+        "isVis": true
+      }
+    ],
+    "order": [
+      "calibration-instructions",
+      "calibration",
+      "continuous-instructions",
+      "continuous"
+    ],
+    "allow": [
+      "skipped",
+      "dontKnow"
+    ]
+  }
+}
