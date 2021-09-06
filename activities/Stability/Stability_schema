@@ -14,12 +14,12 @@
     "addProperties": [
       {
         "variableName": "calibration-instructions",
-        "isAbout": "instructions",
+        "isAbout": "calibration-instructions",
         "isVis": true
       },
       {
         "variableName": "calibration-phase",
-        "isAbout": "calibration",
+        "isAbout": "calibration-phase",
         "isVis": true
       },
       {
@@ -29,15 +29,15 @@
       },
       {
         "variableName": "continuous-phase",
-        "isAbout": "continuous",
+        "isAbout": "continuous-phase",
         "isVis": true
       }
     ],
     "order": [
       "calibration-instructions",
-      "calibration",
+      "calibration-phase",
       "continuous-instructions",
-      "continuous"
+      "continuous-phase"
     ],
     "allow": [
       "skipped",
