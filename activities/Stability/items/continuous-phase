@@ -59,10 +59,30 @@
       "schema:name": "noiseLevel",
       "schema:value": 0
     },
+{
+      "@type": "schema:Double",
+      "schema:name": "taskLoopRate",
+      "schema:value": 0.0167
+    },
+    {
+      "@type": "schema:Double",
+      "schema:name": "cyclesPerMin",
+      "schema:value": 2
+    },
+    {
+      "@type": "schema:Boolean",
+      "schema:name": "showPreview",
+      "schema:value": true
+    },
     {
       "@type": "schema:Number",
-      "schema:name": "taskLoopRate",
-      "schema:value": 1
+      "schema:name": "numPreviewStim",
+      "schema:value": 3
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "previewStepGap",
+      "schema:value": 100
     }
   ]
 }
