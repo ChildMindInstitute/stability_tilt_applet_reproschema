@@ -47,7 +47,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "lambdaSlope",
-      "schema:value": 1.1
+      "schema:value": 1.0
     },
     {
       "@type": "schema:Text",
@@ -68,6 +68,26 @@
       "@type": "schema:Double",
       "schema:name": "cyclesPerMin",
       "schema:value": 2
+    },
+    {
+      "@type": "schema:Double",
+      "schema:name": "durationMins",
+      "schema:value": 15
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "trialNumber",
+      "schema:value": 15
+    },
+    {
+      "@type": "schema:Double",
+      "schema:name": "oobDuration",
+      "schema:value": 0.2,
+    },
+    {
+      "@type": "schema:Double",
+      "schema:name": "initialLambda",
+      "schema:value": 0.075
     },
     {
       "@type": "schema:Boolean",

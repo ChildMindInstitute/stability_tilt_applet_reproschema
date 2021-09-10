@@ -70,6 +70,26 @@
       "schema:value": 2
     },
     {
+      "@type": "schema:Double",
+      "schema:name": "durationMins",
+      "schema:value": 15
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "trialNumber",
+      "schema:value": 10
+    },
+    {
+      "@type": "schema:Double",
+      "schema:name": "oobDuration",
+      "schema:value": 0.2,
+    },
+    {
+      "@type": "schema:Double",
+      "schema:name": "initialLambda",
+      "schema:value": 0.075
+    },
+    {
       "@type": "schema:Boolean",
       "schema:name": "showPreview",
       "schema:value": true
