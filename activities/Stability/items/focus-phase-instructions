@@ -10,7 +10,7 @@
   "schema:schemaVersion": "0.0.1",
   "schema:version": "0.0.1",
   "question": {
-    "en": "## The next item is calibration phase of stability tracker"
+    "en": "This is the Focus Phase. This phase will last 5 minutes. The trial will begin at an easy level, and will increase to a level that should not be very difficult. Your task will be to focus on keeping the disc in the center of the screen, without letting it drift off center. If you lose control of the disc and it hits a wall, the disc will be moved back to the center of the screen and the task will continue."
   },
   "ui": {
     "inputType": "markdown-message"

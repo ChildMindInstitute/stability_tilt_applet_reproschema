@@ -13,31 +13,37 @@
   "ui": {
     "addProperties": [
       {
-        "variableName": "calibration-instructions",
-        "isAbout": "calibration-instructions",
+        "variableName": "instructions",
+        "isAbout": "instructions",
         "isVis": true
       },
       {
-        "variableName": "calibration-phase",
-        "isAbout": "calibration-phase",
+        "variableName": "challenge-phase-instructions",
+        "isAbout": "challenge-phase-instructions",
         "isVis": true
       },
       {
-        "variableName": "continuous-instructions",
-        "isAbout": "continuous-instructions",
+        "variableName": "challenge-phase",
+        "isAbout": "challenge-phase",
         "isVis": true
       },
       {
-        "variableName": "continuous-phase",
-        "isAbout": "continuous-phase",
+        "variableName": "focus-phase-instructions",
+        "isAbout": "focus-phase-instructions",
+        "isVis": true
+      },
+      {
+        "variableName": "focus-phase",
+        "isAbout": "focus-phase",
         "isVis": true
       }
     ],
     "order": [
-      "calibration-instructions",
-      "calibration-phase",
-      "continuous-instructions",
-      "continuous-phase"
+      "instructions",
+      "challenge-phase-instructions",
+      "challenge-phase",
+      "focus-phase-instructions",
+      "focus-phase"
     ],
     "allow": [
       "skipped",

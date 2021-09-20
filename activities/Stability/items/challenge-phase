@@ -42,7 +42,7 @@
     {
       "@type": "schema:Text",
       "schema:name": "phaseType",
-      "schema:value": "calibration"
+      "schema:value": "challenge-phase"
     },
     {
       "@type": "schema:Double",
@@ -77,7 +77,7 @@
     {
       "@type": "schema:Number",
       "schema:name": "trialNumber",
-      "schema:value": 10
+      "schema:value": 3
     },
     {
       "@type": "schema:Double",

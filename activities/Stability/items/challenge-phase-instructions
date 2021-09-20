@@ -10,7 +10,7 @@
   "schema:schemaVersion": "0.0.1",
   "schema:version": "0.0.1",
   "question": {
-    "en": "## The next item is continuous phase of stability tracker"
+    "en": "This is the Challenge Phase. There will be 3 trials. Each trial will begin at an easy level, but it will become more difficult to keep the disc at the center of the screen. Eventually, you will  lose control of the disc. When it hits a wall at the edge of the screen, the trial ends and the disc will be moved back to the center of the screen. Try to keep the disc away from the walls for as long as possible on each trial."
   },
   "ui": {
     "inputType": "markdown-message"

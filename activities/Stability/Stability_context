@@ -2,20 +2,24 @@
   "@context": {
     "@version": 1.1,
     "Stability": "https://raw.githubusercontent.com/mtg137/Stability_tracker_applet/master/activities/Stability/",
-    "calibration-instructions": {
-      "@id": "Stability:items/calibration-instructions",
+    "instructions": {
+      "@id": "Stability:items/instructions",
       "@type": "@id"
     },
-    "calibration-phase": {
-      "@id": "Stability:items/calibration-phase",
+    "challenge-phase-instructions": {
+      "@id": "Stability:items/challenge-phase-instructions",
       "@type": "@id"
     },
-    "continuous-instructions": {
-      "@id": "Stability:items/continuous-instructions",
+    "challenge-phase": {
+      "@id": "Stability:items/challenge-phase",
       "@type": "@id"
     },
-    "continuous-phase": {
-      "@id": "Stability:items/continuous-phase",
+    "focus-phase-instructions": {
+      "@id": "Stability:items/focus-phase-instructions",
+      "@type": "@id"
+    },
+    "focus-phase": {
+      "@id": "Stability:items/focus-phase",
       "@type": "@id"
     }
   }

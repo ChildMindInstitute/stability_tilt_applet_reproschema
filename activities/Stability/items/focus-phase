@@ -42,7 +42,7 @@
     {
       "@type": "schema:Text",
       "schema:name": "phaseType",
-      "schema:value": "continuous"
+      "schema:value": "focus-phase"
     },
     {
       "@type": "schema:Double",
@@ -72,7 +72,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "durationMins",
-      "schema:value": 15
+      "schema:value": 5
     },
     {
       "@type": "schema:Number",
