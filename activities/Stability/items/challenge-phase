@@ -103,6 +103,11 @@
       "@type": "schema:Number",
       "schema:name": "previewStepGap",
       "schema:value": 100
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "dimensionCount",
+      "schema:value": 1
     }
   ]
 }
