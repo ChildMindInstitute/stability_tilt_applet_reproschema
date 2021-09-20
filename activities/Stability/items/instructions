@@ -10,7 +10,7 @@
   "schema:schemaVersion": "0.0.1",
   "schema:version": "0.0.1",
   "question": {
-    "en": "In this task, you will see a disc that will drift either to the left or right side of the screen. Your job will be to keep the disc in the middle of the screen. If the disc is moving to the right, tilt your phone to the left to bring it back to the center. If the disc is moving to the left, tilt your phone to the right to bring the disc back to center. Do not let the disc touch the walls to the far left or right of the screen. There will be two phases to this task, a Challenge Phase, and a Focus Phase."
+    "en": "In this task, you will see a disc that will drift either to the left or right side of the screen.\n Your job will be to keep the disc in the middle of the screen.\n If the disc is moving to the right, tilt your phone to the left to bring it back to the center.\n If the disc is moving to the left, tilt your phone to the right to bring the disc back to center.\n Do not let the disc touch the walls to the far left or right of the screen.\n There will be two phases to this task, a Challenge Phase, and a Focus Phase."
   },
   "ui": {
     "inputType": "markdown-message"
