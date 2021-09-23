@@ -72,7 +72,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "durationMins",
-      "schema:value": 15
+      "schema:value": 5
     },
     {
       "@type": "schema:Number",
@@ -108,6 +108,11 @@
       "@type": "schema:Number",
       "schema:name": "dimensionCount",
       "schema:value": 1
+    },
+    {
+      "@type": "schema:Text",
+      "schema:name": "userInputType",
+      "schema:value": "gyroscope"
     }
   ]
 }
