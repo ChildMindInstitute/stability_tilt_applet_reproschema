@@ -47,7 +47,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "lambdaSlope",
-      "schema:value": 1.1
+      "schema:value": 20
     },
     {
       "@type": "schema:Text",
@@ -113,6 +113,11 @@
       "@type": "schema:Text",
       "schema:name": "userInputType",
       "schema:value": "gyroscope"
+    },
+    {
+      "@type": "schema:Double",
+      "schema:name": "maxRad",
+      "schema:value": 0.175
     }
   ]
 }
