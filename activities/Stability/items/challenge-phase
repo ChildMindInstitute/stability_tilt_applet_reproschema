@@ -47,7 +47,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "lambdaSlope",
-      "schema:value": 20
+      "schema:value": 3
     },
     {
       "@type": "schema:Text",
@@ -117,7 +117,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "maxRad",
-      "schema:value": 0.175
+      "schema:value": 1.57
     }
   ]
 }
