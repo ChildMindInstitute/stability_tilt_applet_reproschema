@@ -52,7 +52,7 @@
     {
       "@type": "schema:Text",
       "schema:name": "basisFunc",
-      "schema:value": "gerono"
+      "schema:value": "zeros_1d"
     },
     {
       "@type": "schema:Double",
@@ -77,7 +77,7 @@
     {
       "@type": "schema:Number",
       "schema:name": "trialNumber",
-      "schema:value": 1
+      "schema:value": 0
     },
     {
       "@type": "schema:Double",
@@ -97,7 +97,7 @@
     {
       "@type": "schema:Number",
       "schema:name": "numPreviewStim",
-      "schema:value": 3
+      "schema:value": 0
     },
     {
       "@type": "schema:Number",
