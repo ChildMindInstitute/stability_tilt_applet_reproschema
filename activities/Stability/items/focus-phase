@@ -117,7 +117,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "maxRad",
-      "schema:value": 1.57
+      "schema:value": 0.26167
     }
   ]
 }
