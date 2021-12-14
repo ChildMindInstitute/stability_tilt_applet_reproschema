@@ -13,6 +13,7 @@
     "en": "This is the Challenge Phase.\n There will be 3 trials.\n Each trial will begin at an easy level, but it will become more difficult to keep the disc at the center of the screen.\n Eventually, you will lose control of the disc.\n When it hits a wall at the edge of the screen, the trial ends and the disc will be moved back to the center of the screen.\n Try to keep the disc away from the walls for as long as possible on each trial."
   },
   "ui": {
-    "inputType": "markdown-message"
+    "inputType": "markdown-message",
+    "allow": ["disableBack"]
   }
 }

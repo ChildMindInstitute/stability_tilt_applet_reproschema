@@ -46,8 +46,6 @@
       "focus-phase"
     ],
     "allow": [
-      "skipped",
-      "dontKnow"
     ]
   }
 }

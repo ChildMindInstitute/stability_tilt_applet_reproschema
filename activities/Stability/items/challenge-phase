@@ -11,7 +11,7 @@
   "schema:version": "0.0.1",
   "ui": {
     "inputType": "stabilityTracker",
-    "allow": ["autoAdvance"]
+    "allow": ["disableBack"]
   },
   "inputOptions": [
     {

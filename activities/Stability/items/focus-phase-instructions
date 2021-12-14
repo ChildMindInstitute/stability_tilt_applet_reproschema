@@ -13,6 +13,7 @@
     "en": "This is the Focus Phase.\n This phase will last 5 minutes.\n The trial will begin at an easy level, and will increase to a level that should not be very difficult.\n Your task will be to focus on keeping the disc in the center of the screen, without letting it drift off center.\n If you lose control of the disc and it hits a wall, the disc will be moved back to the center of the screen and the task will continue."
   },
   "ui": {
-    "inputType": "markdown-message"
+    "inputType": "markdown-message",
+    "allow": ["disableBack"]
   }
 }
