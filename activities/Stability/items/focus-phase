@@ -47,7 +47,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "lambdaSlope",
-      "schema:value": 3
+      "schema:value": 20
     },
     {
       "@type": "schema:Text",
