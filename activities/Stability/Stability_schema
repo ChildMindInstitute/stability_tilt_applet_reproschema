@@ -3,7 +3,7 @@
     "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
     "https://raw.githubusercontent.com/mtg137/Stability_tracker_applet/master/activities/Stability/Stability_context"
   ],
-  "@type": "reproschema:Activity",
+  "@type": "reproschema:CST_GYRO",
   "@id": "stability_schema",
   "skos:prefLabel": "Stability_Task_Tilt",
   "schema:description": "This activity contains Stability tracker item.",

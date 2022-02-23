@@ -17,7 +17,7 @@
     {
       "@type": "schema:Number",
       "schema:name": "maxOffTargetTime",
-      "schema:numberOfItems": 15
+      "schema:value": 15
     },
     {
       "@type": "schema:Number",
@@ -59,7 +59,7 @@
       "schema:name": "noiseLevel",
       "schema:value": 0
     },
-{
+    {
       "@type": "schema:Double",
       "schema:name": "taskLoopRate",
       "schema:value": 0.0167
