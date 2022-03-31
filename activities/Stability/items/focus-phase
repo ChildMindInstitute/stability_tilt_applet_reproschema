@@ -72,7 +72,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "durationMins",
-      "schema:value": 1
+      "schema:value": 5
     },
     {
       "@type": "schema:Number",
