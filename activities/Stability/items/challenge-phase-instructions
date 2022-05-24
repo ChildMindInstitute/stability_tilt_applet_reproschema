@@ -3,10 +3,10 @@
     "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
   ],
   "@type": "reproschema:Field",
-  "@id": "calibration-instructions",
-  "skos:altLabel": "calibration-instructions",
+  "@id": "challenge-phase-instructions",
+  "skos:altLabel": "challenge-phase-instructions",
   "skos:prefLabel": "Stability tracker instructions",
-  "schema:description": "Instructions for Calibration Phase",
+  "schema:description": "Instructions for Challenge Phase",
   "schema:schemaVersion": "0.0.1",
   "schema:version": "0.0.1",
   "question": {

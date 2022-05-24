@@ -3,7 +3,7 @@
     "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
   ],
   "@type": "reproschema:Field",
-  "@id": "calibration-phase",
+  "@id": "challenge-phase",
   "skos:prefLabel": "Stability Tracker",
   "skos:altLabel": "Stability Tracker",
   "schema:description": "Stability Tracker Practice",

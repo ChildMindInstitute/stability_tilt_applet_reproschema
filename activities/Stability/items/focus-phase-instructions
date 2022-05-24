@@ -3,8 +3,8 @@
     "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
   ],
   "@type": "reproschema:Field",
-  "@id": "continuous-instructions",
-  "skos:altLabel": "continuous-instructions",
+  "@id": "focus-phase-instructions",
+  "skos:altLabel": "focus-phase-instructions",
   "skos:prefLabel": "Stability tracker instructions",
   "schema:description": "Instructions for Continuous Phase",
   "schema:schemaVersion": "0.0.1",
