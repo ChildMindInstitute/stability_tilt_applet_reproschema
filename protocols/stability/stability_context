@@ -1,6 +1,6 @@
 {
     "@context": {
-        "activity_path": "https://raw.githubusercontent.com/mtg137/Stability_tracker_applet/master/activities/",
+        "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/stability_tilt_applet_schema/master/activities/",
 
         "Stability_schema": {
             "@id": "activity_path:Stability/Stability_schema",

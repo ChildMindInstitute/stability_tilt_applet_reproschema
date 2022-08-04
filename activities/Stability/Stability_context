@@ -1,7 +1,7 @@
 {
   "@context": {
     "@version": 1.1,
-    "Stability": "https://raw.githubusercontent.com/mtg137/Stability_tracker_applet/master/activities/Stability/",
+    "Stability": "https://raw.githubusercontent.com/ChildMindInstitute/stability_tilt_applet_schema/master/activities/Stability/",
     "instructions": {
       "@id": "Stability:items/instructions",
       "@type": "@id"

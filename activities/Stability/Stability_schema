@@ -1,7 +1,7 @@
 {
   "@context": [
     "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-    "https://raw.githubusercontent.com/mtg137/Stability_tracker_applet/master/activities/Stability/Stability_context"
+    "https://raw.githubusercontent.com/ChildMindInstitute/stability_tilt_applet_schema/master/activities/Stability/Stability_context"
   ],
   "@type": "reproschema:Activity",
   "activityType": "CST_GYRO",
