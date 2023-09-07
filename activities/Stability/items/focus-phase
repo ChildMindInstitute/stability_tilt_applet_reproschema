@@ -82,7 +82,7 @@
     {
       "@type": "schema:Double",
       "schema:name": "oobDuration",
-      "schema:value": 0.2,
+      "schema:value": 0.2
     },
     {
       "@type": "schema:Double",
